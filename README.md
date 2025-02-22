@@ -36,6 +36,7 @@ http://localhost:80
 Жанры:
 - `GET api/genres` — Список всех жанров
 - `GET api/genres/{genre}` — Информация о конкретном жанре
+
 Книги:
 - `GET api/books` — Список всех книг
 - `GET api/books/{book}` — Информация о конкретной книге
